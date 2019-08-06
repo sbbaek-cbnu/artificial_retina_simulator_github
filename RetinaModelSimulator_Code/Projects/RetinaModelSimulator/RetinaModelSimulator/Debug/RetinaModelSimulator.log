@@ -1,0 +1,34 @@
+﻿Build started 2016-06-20-월 오후 8:53:12.
+     1>Project "c:\Users\ccns-sbbaek\documents\visual studio 2010\Projects\RetinaModelSimulator\RetinaModelSimulator\RetinaModelSimulator.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\RetinaModelSimulator.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\RetinaModelSimulator.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt RetinaModelSimulator.cpp RetinaModelSimulatorDlg.cpp
+         Skipping... (no relevant changes detected)
+         RetinaModelSimulatorDlg.cpp
+         RetinaModelSimulator.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _DEBUG /l"0x0409" /IDebug\ /nologo /fo"Debug\RetinaModelSimulator.res" RetinaModelSimulator.rc 
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\ccns-sbbaek\documents\visual studio 2010\Projects\RetinaModelSimulator\Debug\RetinaModelSimulator.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\RetinaModelSimulator.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\ccns-sbbaek\documents\visual studio 2010\Projects\RetinaModelSimulator\Debug\RetinaModelSimulator.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\ccns-sbbaek\documents\visual studio 2010\Projects\RetinaModelSimulator\Debug\RetinaModelSimulator.lib" /MACHINE:X86 Debug\RetinaModelSimulator.res
+         Debug\RetinaModelSimulator.exe.embed.manifest.res
+         Debug\RetinaModelSimulator.obj
+         Debug\RetinaModelSimulatorDlg.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\RetinaModelSimulator.exe.embed.manifest" /manifest Debug\RetinaModelSimulator.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         RetinaModelSimulator.vcxproj -> c:\users\ccns-sbbaek\documents\visual studio 2010\Projects\RetinaModelSimulator\Debug\RetinaModelSimulator.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\RetinaModelSimulator.unsuccessfulbuild".
+         Touching "Debug\RetinaModelSimulator.lastbuildstate".
+     1>Done Building Project "c:\Users\ccns-sbbaek\documents\visual studio 2010\Projects\RetinaModelSimulator\RetinaModelSimulator\RetinaModelSimulator.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.83

@@ -1,0 +1,118 @@
+﻿Build started 2016-11-15-화 오후 2:45:01.
+     1>Project "C:\Users\CCNS-SBBAEK\documents\visual studio 2010\Projects\RetinaModelSimulator\RetinaModelSimulator\RetinaModelSimulator.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "x64\Release\RetinaModelSimulator.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "x64\Release\RetinaModelSimulator.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _MBCS /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"x64\Release\RetinaModelSimulator.pch" /Fo"x64\Release\\" /Fd"x64\Release\vc100.pdb" /Gd /TP /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _MBCS /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"x64\Release\RetinaModelSimulator.pch" /Fo"x64\Release\\" /Fd"x64\Release\vc100.pdb" /Gd /TP /errorReport:prompt RetinaModelSimulator.cpp RetinaModelSimulatorDlg.cpp
+         RetinaModelSimulator.cpp
+         RetinaModelSimulatorDlg.cpp
+     1>RetinaModelSimulatorDlg.cpp(217): warning C4305: '=' : truncation from 'double' to 'float'
+     1>RetinaModelSimulatorDlg.cpp(218): warning C4305: '=' : truncation from 'double' to 'float'
+     1>RetinaModelSimulatorDlg.cpp(221): warning C4305: '=' : truncation from 'double' to 'float'
+     1>RetinaModelSimulatorDlg.cpp(224): warning C4305: '=' : truncation from 'double' to 'float'
+     1>RetinaModelSimulatorDlg.cpp(225): warning C4305: '=' : truncation from 'double' to 'float'
+     1>RetinaModelSimulatorDlg.cpp(228): warning C4305: '=' : truncation from 'double' to 'float'
+     1>RetinaModelSimulatorDlg.cpp(231): warning C4305: '=' : truncation from 'double' to 'float'
+     1>RetinaModelSimulatorDlg.cpp(234): warning C4305: '=' : truncation from 'double' to 'float'
+     1>RetinaModelSimulatorDlg.cpp(237): warning C4305: '=' : truncation from 'double' to 'float'
+     1>RetinaModelSimulatorDlg.cpp(238): warning C4305: '=' : truncation from 'double' to 'float'
+     1>RetinaModelSimulatorDlg.cpp(241): warning C4305: '=' : truncation from 'double' to 'float'
+     1>RetinaModelSimulatorDlg.cpp(243): warning C4305: '=' : truncation from 'double' to 'float'
+     1>RetinaModelSimulatorDlg.cpp(245): warning C4305: '=' : truncation from 'double' to 'float'
+     1>RetinaModelSimulatorDlg.cpp(246): warning C4305: '=' : truncation from 'double' to 'float'
+     1>RetinaModelSimulatorDlg.cpp(250): warning C4305: '=' : truncation from 'double' to 'float'
+     1>RetinaModelSimulatorDlg.cpp(254): warning C4305: '=' : truncation from 'double' to 'float'
+     1>RetinaModelSimulatorDlg.cpp(257): warning C4305: '=' : truncation from 'double' to 'float'
+     1>RetinaModelSimulatorDlg.cpp(258): warning C4305: '=' : truncation from 'double' to 'float'
+     1>RetinaModelSimulatorDlg.cpp(261): warning C4305: '=' : truncation from 'double' to 'float'
+     1>RetinaModelSimulatorDlg.cpp(262): warning C4305: '=' : truncation from 'double' to 'float'
+     1>RetinaModelSimulatorDlg.cpp(265): warning C4305: '=' : truncation from 'double' to 'float'
+     1>RetinaModelSimulatorDlg.cpp(266): warning C4305: '=' : truncation from 'double' to 'float'
+     1>RetinaModelSimulatorDlg.cpp(270): warning C4305: '=' : truncation from 'double' to 'float'
+     1>RetinaModelSimulatorDlg.cpp(273): warning C4305: '=' : truncation from 'double' to 'float'
+     1>RetinaModelSimulatorDlg.cpp(281): warning C4305: '=' : truncation from 'double' to 'float'
+     1>RetinaModelSimulatorDlg.cpp(286): warning C4305: '=' : truncation from 'double' to 'float'
+     1>RetinaModelSimulatorDlg.cpp(292): warning C4305: '=' : truncation from 'double' to 'float'
+     1>RetinaModelSimulatorDlg.cpp(297): warning C4305: '=' : truncation from 'double' to 'float'
+     1>RetinaModelSimulatorDlg.cpp(300): warning C4305: '=' : truncation from 'double' to 'float'
+     1>RetinaModelSimulatorDlg.cpp(301): warning C4305: '=' : truncation from 'double' to 'float'
+     1>RetinaModelSimulatorDlg.cpp(303): warning C4305: '=' : truncation from 'double' to 'float'
+     1>RetinaModelSimulatorDlg.cpp(304): warning C4305: '=' : truncation from 'double' to 'float'
+     1>RetinaModelSimulatorDlg.cpp(307): warning C4305: '=' : truncation from 'double' to 'float'
+     1>RetinaModelSimulatorDlg.cpp(308): warning C4305: '=' : truncation from 'double' to 'float'
+     1>RetinaModelSimulatorDlg.cpp(313): warning C4305: '=' : truncation from 'double' to 'float'
+     1>RetinaModelSimulatorDlg.cpp(316): warning C4305: '=' : truncation from 'double' to 'float'
+     1>RetinaModelSimulatorDlg.cpp(318): warning C4305: '=' : truncation from 'double' to 'float'
+     1>RetinaModelSimulatorDlg.cpp(319): warning C4305: '=' : truncation from 'double' to 'float'
+     1>RetinaModelSimulatorDlg.cpp(324): warning C4305: '=' : truncation from 'double' to 'float'
+     1>RetinaModelSimulatorDlg.cpp(327): warning C4305: '=' : truncation from 'double' to 'float'
+     1>RetinaModelSimulatorDlg.cpp(330): warning C4305: '=' : truncation from 'double' to 'float'
+     1>RetinaModelSimulatorDlg.cpp(331): warning C4305: '=' : truncation from 'double' to 'float'
+     1>RetinaModelSimulatorDlg.cpp(336): warning C4305: '=' : truncation from 'double' to 'float'
+     1>RetinaModelSimulatorDlg.cpp(339): warning C4305: '=' : truncation from 'double' to 'float'
+     1>RetinaModelSimulatorDlg.cpp(341): warning C4305: '=' : truncation from 'double' to 'float'
+     1>RetinaModelSimulatorDlg.cpp(342): warning C4305: '=' : truncation from 'double' to 'float'
+     1>RetinaModelSimulatorDlg.cpp(347): warning C4305: '=' : truncation from 'double' to 'float'
+     1>RetinaModelSimulatorDlg.cpp(350): warning C4305: '=' : truncation from 'double' to 'float'
+     1>RetinaModelSimulatorDlg.cpp(355): warning C4305: '=' : truncation from 'double' to 'float'
+     1>RetinaModelSimulatorDlg.cpp(357): warning C4305: '=' : truncation from 'double' to 'float'
+     1>RetinaModelSimulatorDlg.cpp(362): warning C4305: '=' : truncation from 'double' to 'float'
+     1>RetinaModelSimulatorDlg.cpp(365): warning C4305: '=' : truncation from 'double' to 'float'
+     1>RetinaModelSimulatorDlg.cpp(369): warning C4305: '=' : truncation from 'double' to 'float'
+     1>RetinaModelSimulatorDlg.cpp(373): warning C4305: '=' : truncation from 'double' to 'float'
+     1>RetinaModelSimulatorDlg.cpp(376): warning C4305: '=' : truncation from 'double' to 'float'
+     1>RetinaModelSimulatorDlg.cpp(380): warning C4305: '=' : truncation from 'double' to 'float'
+     1>RetinaModelSimulatorDlg.cpp(384): warning C4305: '=' : truncation from 'double' to 'float'
+     1>RetinaModelSimulatorDlg.cpp(387): warning C4305: '=' : truncation from 'double' to 'float'
+     1>RetinaModelSimulatorDlg.cpp(391): warning C4305: '=' : truncation from 'double' to 'float'
+     1>RetinaModelSimulatorDlg.cpp(503): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>RetinaModelSimulatorDlg.cpp(504): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>RetinaModelSimulatorDlg.cpp(505): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>RetinaModelSimulatorDlg.cpp(506): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>RetinaModelSimulatorDlg.cpp(507): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>RetinaModelSimulatorDlg.cpp(508): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>RetinaModelSimulatorDlg.cpp(509): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>RetinaModelSimulatorDlg.cpp(984): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>RetinaModelSimulatorDlg.cpp(1010): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>RetinaModelSimulatorDlg.cpp(1036): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>RetinaModelSimulatorDlg.cpp(1060): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>RetinaModelSimulatorDlg.cpp(1085): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>RetinaModelSimulatorDlg.cpp(1110): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>RetinaModelSimulatorDlg.cpp(1136): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>RetinaModelSimulatorDlg.cpp(1160): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>RetinaModelSimulatorDlg.cpp(1178): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>RetinaModelSimulatorDlg.cpp(1205): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>RetinaModelSimulatorDlg.cpp(1223): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>RetinaModelSimulatorDlg.cpp(1241): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>RetinaModelSimulatorDlg.cpp(1260): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>RetinaModelSimulatorDlg.cpp(1279): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>RetinaModelSimulatorDlg.cpp(2515): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>RetinaModelSimulatorDlg.cpp(3939): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>RetinaModelSimulatorDlg.cpp(5344): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D NDEBUG /l"0x0409" /Ix64\Release\ /nologo /fo"x64\Release\RetinaModelSimulator.res" RetinaModelSimulator.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\CCNS-SBBAEK\documents\visual studio 2010\Projects\RetinaModelSimulator\x64\Release\RetinaModelSimulator.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /ManifestFile:"x64\Release\RetinaModelSimulator.exe.intermediate.manifest" /MANIFESTUAC:"level='requireAdministrator' uiAccess='false'" /DEBUG /PDB:"C:\Users\CCNS-SBBAEK\documents\visual studio 2010\Projects\RetinaModelSimulator\x64\Release\RetinaModelSimulator.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\CCNS-SBBAEK\documents\visual studio 2010\Projects\RetinaModelSimulator\x64\Release\RetinaModelSimulator.lib" /MACHINE:X64 x64\Release\RetinaModelSimulator.res
+         x64\Release\RetinaModelSimulator.obj
+         x64\Release\RetinaModelSimulatorDlg.obj
+         x64\Release\stdafx.obj
+         Generating code
+         Finished generating code
+         RetinaModelSimulator.vcxproj -> C:\Users\CCNS-SBBAEK\documents\visual studio 2010\Projects\RetinaModelSimulator\x64\Release\RetinaModelSimulator.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\CCNS-SBBAEK\documents\visual studio 2010\Projects\RetinaModelSimulator\x64\Release\RetinaModelSimulator.exe;#1" /manifest x64\Release\RetinaModelSimulator.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "x64\Release\RetinaModelSimulator.unsuccessfulbuild".
+         Touching "x64\Release\RetinaModelSimulator.lastbuildstate".
+     1>Done Building Project "C:\Users\CCNS-SBBAEK\documents\visual studio 2010\Projects\RetinaModelSimulator\RetinaModelSimulator\RetinaModelSimulator.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:10.78
