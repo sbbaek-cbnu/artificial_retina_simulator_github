@@ -1,6 +1,7 @@
-# artificial_retina_simulator_github
-Cellular network retina simulator which accepts light input in the form of Rhodopsin & photoisomerization molecules activated per second, returning a transient analysis of ionic current response and membrane potentials of retina cells.
+# Video2Spike Retina Simulator
+Conductance-based Hodgkin-Huxley neuron model which converts pixel intensity input (from images/videos) into Rhodopsin/photoisomerizations per second. The simulator returns a transient analysis of ion current response, membrane potential and conductance evolution of each retina cell.
 
 ## Getting Started
-An executable binary (32- and 64-bit) of the simulator is provided for immediate use of the simulator.
-The source code of the model is also included as a VS2010 project.
+Download all files in vid2spike folder.
+Keep all files in the same relative path.
+Run RetinaModelSimulator.exe (64-bit). Intended for external webcam use.
